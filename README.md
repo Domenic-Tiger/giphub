@@ -1,4 +1,4 @@
-# giphub
+# readme
 
 Hi there it's Dom!
 
